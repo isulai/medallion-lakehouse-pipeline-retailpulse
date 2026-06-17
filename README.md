@@ -24,7 +24,7 @@ The project demonstrates core Data Engineering concepts including:
 
 ## Architecture
 
-![Medallion Architecture](architecture/medallion_lakehouse.png)
+![Medallion Architecture](archetecture/medallion_lakehouse.png)
 
 ---
 
